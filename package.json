@@ -24,7 +24,7 @@
     "ejs": "3.1.7",
     "ejs-locals": "1.0.2",
     "errorhandler": "1.4.3",
-    "express": "4.15.0",
+    "express": "4.22.3",
     "express-fileupload": "1.4.0",
     "express-session": "^1.18.2",
     "file-type": "^8.1.0",
